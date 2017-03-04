@@ -6,7 +6,7 @@
 #include <string>
 #include <cassert>
 
-#include "TextTool.h"
+#include "Texttool.h"
 
 using namespace std;
 int i = 0;	// for test step numbering.
@@ -88,5 +88,6 @@ int main() {
 		cout << e.what() << endl;
 	}
 
-	system("pause");
+	// system("pause");
 }
+
